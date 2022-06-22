@@ -1,0 +1,12 @@
+{
+    "name": "Teepha",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "teepha.html",
+      "default_icon": "hello_extensions.png"
+    }
+  }
+
+ 
